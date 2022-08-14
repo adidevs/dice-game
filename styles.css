@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color:goldenrod;
+    color: white;
+}
+.game{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-weight:900;
+}
+.result,footer{
+    margin: 5%;
+}
+.row{
+    padding: 0% 20%;
+}
