@@ -1,3 +1,2 @@
 # dice-game
-A simple dice game project 
-Created this project while learning Web Development!
+A simple dice game project... <br>Created this project while learning Web Development!
